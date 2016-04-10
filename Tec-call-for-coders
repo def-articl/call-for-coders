@@ -1,0 +1,74 @@
+Tech Coding – Call for Coders
+
+Coding Requirements for Phtzone (Website / Artwork ready ) ArtExpo festival 1 May !
+
+A call for coders to work on scripts for artwork ready website and plasma screen animation for 1 May. Working as a team both on the website database and in London. The coding isn’t technically ground breaking and most the bulk of the coding is preset wordpress plugins. The call is for contribution for website script tweeking and modification, social media API and database integration, optimization, and priority scripting for a random loop photo animation updated fro the wp database for a plasma screen (LCD).
+The main wordpress set up is quite easy but the urgency is to have artwork and interactivity ready for May 1 and to work with other coders in London as a team (learning and coding with them!). The pitch isn’t a client ‘spec’ but a team coding opportunity and all contributor mentions as collaborators on the artwork and on promo accreditations.
+
+Website
+
+Social network integration 
+
+The website is active (temp revision) on a free host Wordpress website and can be quickly transferred to a paying host site. The reasons for using wp , for those that aren’t familiar with wp, is that the scripts are mostly javascript, and proliferated with free open source plugins and widgets, ( javascript). And the software is built, modified and hacked by wp developers and volunteers. 
+Most the plugins are specifically scripted for creative commons / MIT licence modification to specifications and are updated with all the evolving libraries regularly, eg. Json, reactor. 
+
+Info links
+https://wordpress.org/plugins/flickr-api/
+https://wordpress.org/
+http://codecanyon.net/item/justified-image-grid-premium-wordpress-gallery/2594251?ref=surfarama&ref=cirvitis&clickthrough_id&redirect_back=true
+http://enviragallery.com/
+https://www.smashingmagazine.com/2011/03/ten-things-every-wordpress-plugin-developer-should-know/
+
+
+Social Portal Network
+
+Coding
+
+Interface – The website visual emphasis is a flickr style photo gallery animation . For May with revision and adaptation for site specific artwork. 
+
+The theme a variation of a flickr photo gallery either a preset theme or can fully script from a html/ css javascript blank page BUT the wp themes have full theme support for any problems with the preset themes . Open to recommendations and comment but haven’t time for a full discussion 
+
+Theme links 
+
+Imbalance theme http://wpshower.com/themes/imbalance-2/
+https://wordpress.org/plugins/awesome-flickr-gallery-plugin/
+https://wordpress.org/plugins/flickr-album-gallery/
+
+Social media database feeds
+
+The website photo pool is feed from as many of the optimum photo social media networks as possible : flickr, fBK, twitter, insta.. etc. The Social media APIs have to be scripted to intergrate photos from each of the social networks directly to the website gallery , which might prompt as little as widget modifications or require plugin re-scripting but should have developer support material for adapting the scripts
+
+Checking all the feeds integrate smoothing into an homogenous photo link
+
+Database optimisation – photo animations notoriously eats up memory and using a free wordpress site the website is slow, crashes frequently and is down frequently while solving trivial debugging. A recommended solution is using scripts for a fixed image pool that pulls photos from the database, minimzing the number of images loaded into the memory at one time , and bring down memory usage considerably (eg. 900 MiB to ~ 90 MiB) 
+
+Again wp seo, optimsation set up is fully supported and scripts are all javascript for developer modification. Coders can work directly on the site.
+
+Coders interested in tweeking / modifying the wp javascript :
+Customization of photo pool eg. ; with cc,  MIT licence attributions, accreditations, gallery grid dimentions, image thumbnails, image size
+
+Resources sourced for base scripts 
+http://davetayls.me/blog/2016/04/06/image-pooling-for-the-win
+
+Website Photo upload
+
+The website interface also requires a direct upload to the website (widget/ plugin)
+Customize of upload page for photos directly to website photo blog image pool and directly to the photo gallery, with attributes and accreditations ‘Automatically Updated’
+Artwork
+Animation Media Loop
+Using a base script for a photo pool again for an animation for either a plasma screen or smaller LCD grid (the same scripts can be used on a random loop for each LCD ) similar to http://davetayls.me/blog/2016/04/06/image-pooling-for-the-win 
+Considerations for animating for plasma screen 
+
+Most plasma screens require graphics resized for the specific resolutions and dimensions of the screen and the screen resolution to aspect ratio is rectangular pixels and the graphics are compressed horizontally as the screen stretches the image is stretched to configure to the right definition aspect ratio. Resolution acceptability and plasma screen size have to be taken into consideration. 
+Other considerations are Loop times, viewer focus and attention, animation feed website rss update 
+Configuring the Plasma screen / LCD
+
+Scripts 
+
+Media technology 
+Other media material 
+http://www.datapath.co.uk/
+High definition media facades
+Public space media facades and displays
+LCD, silicon, Laser Diode, CRT ,hybrid projectors
+Portable media skins
